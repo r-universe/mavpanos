@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bunching"]
 	path = bunching
 	url = https://github.com/mavpanos/bunching
-	shallow = true
-	registered = true
